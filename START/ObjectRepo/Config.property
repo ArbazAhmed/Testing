@@ -1,0 +1,25 @@
+ChromeDriver=C:\\Users\\c5248056\\Desktop\\New folder\\chromedriver.exe
+
+ExcelPath=C:\\Users\\c5248056\\Desktop\\Excell.xlsx
+
+UserField=//div[@id='USERNAME_FIELD']/input
+
+PassField=//div[@id='PASSWORD_FIELD']/input
+
+LoginButton=//button[@id='LOGIN_LINK']
+
+UserName=s4hgen
+
+Password=Welcome1!
+
+DropDown=//div[@id='__select0']
+
+TimeHorizon=//li[text()='1 Month']
+
+MaterialGroup=(//input[@class='sapMInputBaseInner'])[2]
+
+Table=//li[@title='Table']
+
+Shortage=(//a[text()='Shortage'])[1]
+
+Container = //div[@class='sapUiFormContainerTitle sapUiRGLContainer']
