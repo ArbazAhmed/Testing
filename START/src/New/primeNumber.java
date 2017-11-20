@@ -2,57 +2,42 @@ package New;
 
 
 
-class up{
-	public void overload(int i,int j,int k){
-		
-		System.out.println(i+j+k);
-		
-		
-	}
-	
-	public void overload(int i,int j){
-		
-		System.out.println(i*j);
-		
-	}
-	
-
-	
-	
-	
-}
 
 
+class primeNumber {
 
-
-
-public class primeNumber extends up {
-	
-public void overload(int i,int j){
+	public static void main (String[]args){
 		
-		System.out.println(i%j);
+		int a = 100;
 		
-	}
-
-	public static void main(String[] args) {
+		for (int i = 1;i<=a;i++){
+			
+			
+			
+			
+			
+			
+			
+			
+		}
 		
-	    	
-	    	
-	   up u = new up();
-	  
-	   u.overload(2, 6);
-	    		
-       u.overload(3,5,7);	
-	    	
-	    
-	    
-		primeNumber pn = new primeNumber();
-		pn.overload(2, 3);
+		
+		
+		
+		
+		
+		
 		
 		
 		
 		
 
+		
+		
+		
 	}
 
 }
+
+
+
